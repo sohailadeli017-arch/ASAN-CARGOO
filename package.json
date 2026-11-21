@@ -1,0 +1,15 @@
+{
+  "name": "asan-cargoo",
+  "productName": "ASAN-CARGOO",
+  "version": "1.0.0",
+  "description": "Accounting application for ASAN-CARGOO transportation company",
+  "author": "ASAN-CARGOO",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
+}
